@@ -1,0 +1,16 @@
+id,name,age,gender,city,salary,remote,join_date
+1,Riya,21.0,Female,Delhi,55000.0,Yes,2025-01-05
+2,Aman,24.0,Male,delhi,62000.0,No,2025-01-07
+3,Priya,25.0,female,Mumbai,58000.0,YES,2025-01-10
+4,Rahul,27.0,Male,Mumbai ,71000.0,no,2025-01-12
+5,Neha,22.0,Female,Delhi,49000.0,Yes,2025-01-15
+6,Arjun,31.0,M,Bangalore,85000.0,No,2025-01-18
+7,Simran,26.0,F,Bengaluru,67000.0,yes,2025-01-20
+8,Karan,25.0,Male,Delhi,72000.0,No,2025-01-22
+9,Pooja,23.0,Female,Mumbai,64500.0,Yes,2025-01-25
+10,Vikas,29.0,Male,Delhi,1500000.0,No,2025-01-27
+11,Meera,25.0,Female,Delhi,61000.0,Yes,2025-01-29
+12,Aditya,28.0,Male,Bangalore,76000.0,No,2025-02-01
+13,Neha,22.0,Female,Delhi,49000.0,Yes,2025-01-15
+14,Sahil,30.0,Male,mumbai,68000.0,No,2025-02-04
+15,Anjali,24.0,Female,Delhi,57000.0,No,2025-02-06
